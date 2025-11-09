@@ -58,6 +58,3 @@ BCA – Semester 1
 Symbiosis International (Deemed University)
 ```
 
----
-
-Would you like me to make a **short GitHub description line** (the one below the repo name) in the same minimal style to match this README?
