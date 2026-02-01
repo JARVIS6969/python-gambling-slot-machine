@@ -15,7 +15,7 @@ It’s a console-based project made using basic Python logic and the `random` mo
 - User input validation  
 - Simple and clear console output  
 
----
+--- 
 
 ## How to Play
 1. The game starts with a balance of ₹1000.  
