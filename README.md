@@ -10,7 +10,7 @@ It’s a console-based project made using basic Python logic and the `random` mo
 
 ## Features
 - Randomized spins with different symbols    
-- Betting and balance system   
+- Betting and balance system     
 - Win multiplier for different symbols  
 - User input validation  
 - Simple and clear console output  
