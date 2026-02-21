@@ -8,6 +8,7 @@ It’s a console-based project made using basic Python logic and the `random` mo
 
 ---
 
+
 ## Features
 - Randomized spins with different symbols    
 - Betting and balance system     
